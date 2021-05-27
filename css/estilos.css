@@ -1,0 +1,12 @@
+body {
+  background-color: aqua;
+}
+form {
+  background-color: cadetblue;
+  width: 300px;
+  height: 200px;
+}
+
+.principal {
+  height: 100vh;
+}
